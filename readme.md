@@ -16,7 +16,7 @@ For this, you can follow the next steps:
 `python setup.py`
 3. After seher is located with privileges in your binary, your free to run the scan. 
 `seher -t 10.10.10.138`
-![](pic/seherscreen.png)
+![](screenshots/seherscreen.png)
 # Results
 Here we are using a machine called **Writeup** from [**Hack The Box**](https://www.hackthebox.eu). The results will look like this. 
-![](pic/results.png)
+![](screenshots/results.png)
